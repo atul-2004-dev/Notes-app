@@ -7,7 +7,7 @@ A simple and interactive Notes App built using HTML, CSS, and JavaScript. This a
 - **Create Notes:** Users can create new notes easily.
 - **Edit Notes:** Notes can be edited at any time.
 - **Delete Notes:** Users can delete notes when they are no longer needed.
-- **Responsive Design:** The app is responsive and works well on different screen sizes.
+- **Responsive Design:** The app is responsive and works well on different screen size.
 
 ## Demo
 
